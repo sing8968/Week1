@@ -15,9 +15,9 @@ public class DiffrenceInTime {
      * @param s
      * @return 
      */
-    public static String getTotalSeconds(String s)
+    public static String getTotalSeconds(String s2)
     {
-        String s1 = s;
+        String s1 = s2;
         String[] words;
         words = s1.split(":");
     
