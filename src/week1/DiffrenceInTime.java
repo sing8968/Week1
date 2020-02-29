@@ -20,6 +20,6 @@ public class DiffrenceInTime {
         String s1 = s2;
         String[] words;
         words = s1.split(":");
-    
+    return words;
     }
 }
