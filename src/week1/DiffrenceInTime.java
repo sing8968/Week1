@@ -7,7 +7,7 @@ package week1;
 
 /**
  *
- * @author tp
+ * @author hp
  */
 public class DiffrenceInTime {
     /**
